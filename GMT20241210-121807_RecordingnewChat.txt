@@ -1,0 +1,18 @@
+00:40:18	hasna:	%20 = spasi
+%21 = tanda seru
+00:56:00	Rahadian:	https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
+01:04:18	Rahadian:	<div class="navbar navbar-expand-lg navbar-dark bg-success fixed-top" style="margin-top:50px">      <marquee style="color:white">Ini Runing Text</marquee>    </div>
+01:07:29	hasna:	Jangan lupa mengisi presensi hari ini : https://forms.gle/DPqPDeYPYwEVNHWd9
+01:19:06	Fendy Nanang S:	aman kak
+01:19:23	NURSA:	sudah mulai pusing😀
+01:24:37	hasna:	Poin pembelajaran malam ini :
+1. Row dan collumn
+2. ⁠Link card destinasi
+3. ⁠Whatsapp link
+4. ⁠Text berjalan
+5. ⁠Konten video
+6. ⁠Margin
+
+Teman-teman bisa explore mengenai materi tersebut ya
+01:41:56	Rahadian:	https://mdbootstrap.com/docs/standard/extended/gallery/
+01:51:56	Rahadian:	<section class="container-fluid py-5 mt-5">        <div class="row">            <!-- Gallery -->            <div class="row">                <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">                    <img src="images/image3.png" class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />                </div>                <div class="col-lg-4 mb-4 mb-lg-0">                    <img src="images/image4.png" class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />                </div>                <div class="col-lg-4 mb-4 mb-lg-0">                    <img src="images/image6.png" class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />                </div>            </div>        </div>    </section>
